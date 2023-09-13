@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/vHMqn9s/1.jpg",
+        "title": "The Adventure Begins",
+        "author": "John Doe",
+        "author-img": "https://i.ibb.co/ysDc25H/boy1.png",
+        "posted-date": "2023-09-13",
+        "reading-time": "3",
+        "hashtag": [
+            "adventure",
+            "journey",
+            "excitement"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/LvtMGDR/2.png",
+        "title": "Cooking Delights",
+        "author": "Jane Smith",
+        "author-img": "https://i.ibb.co/RzF0r6h/girl1.jpg",
+        "posted-date": "2023-09-12",
+        "reading-time": "4",
+        "hashtag": [
+            "cooking",
+            "recipes",
+            "foodie"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/601nvrw/3.png",
+        "title": "Tech Trends 2023",
+        "author": "David Williams",
+        "author-img": "https://i.ibb.co/9YnPR2z/boy2.jpg",
+        "posted-date": "2023-09-11",
+        "reading-time": "8",
+        "hashtag": [
+            "technology",
+            "innovation",
+            "future"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vdDjgyq/4.jpg",
+        "title": "Fitness Revolution",
+        "author": "Emily Davis",
+        "author-img": "https://i.ibb.co/NYY2nZy/girl2.jpg",
+        "posted-date": "2023-09-10",
+        "reading-time": "12",
+        "hashtag": [
+            "fitness",
+            "health",
+            "exercise"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/8BjHfNH/Cover.jpg",
+        "title": "Traveling the World",
+        "author": "Michael Johnson",
+        "author-img": "https://i.ibb.co/9YnPR2z/boy2.jpg",
+        "posted-date": "2023-09-09",
+        "reading-time": "15",
+        "hashtag": [
+            "travel",
+            "adventure",
+            "explore"
+        ]
+    }
+]
